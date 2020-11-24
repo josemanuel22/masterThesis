@@ -1,5 +1,5 @@
 # Master Thesis
- My Master's thesis on Bounded Variation Functions and the Mumford-Shah Functional
+ My Master's thesis on Bounded Variation Functions and the Mumford-Shah Functional.
  
 # Abstract 
 Functions of bounded variation were introduced by C. Jordan in connexion with Dirichlet's test for the convergence of Fourier series. However, the modern definition of functions of bounded variation (BV functions in the sequel) is due to the works of E. De Giorgi, who introduced the class of functions whose distributional derivatives are measures. Today, the class of BV functions presents a major role in several classical problems of the calculus of variations.
