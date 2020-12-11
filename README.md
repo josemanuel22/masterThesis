@@ -53,3 +53,54 @@ Springer Science & Business Media, 2010.
 [12] A. P. Calderón and A. Zygmund. On the differentiability of functions which are of
 bounded variation in tonelli’s sense. Revista de la Unión Matemática Argentina,
 20:102–121, (1962).
+
+[13] J. A. Carrillo, M. Del Pino, A. Figalli, G. Mingione, and J. L. Vázquez. Nonlocal
+and Nonlinear Diffusions and Interactions: New Methods and Directions: Cetraro,
+Italy 2016, volume 2186. Springer, 2017.
+
+[14] E. De Giorgi. Sulla proprietà isoperimetrica dell’ipersfera, nella classe degli insiemi
+aventi frontiera orientata di misura finita. Atti della Accademia Nazionale
+dei Lincei. Memorie. Cl. di scienze fisiche, matematiche e naturali. Sez. 1a. Accademia
+Nazionale dei Lincei, 1958.
+
+[15] E. De Giorgi. Free discontinuity problems in calculus of variations. Frontiers in
+pure and applied Mathematics, a collection of papers dedicated to J.L. Lions on
+the occasion of his 60th birthday, pages 55–62, (1991).
+
+[16] E. De Giorgi and L. Ambrosio. Un nuovo tipo di funzionale del calcolo delle variazioni.
+Atti della Accademia Nazionale dei Lincei. Classe di Scienze Fisiche, Matematiche
+e Naturali. Rendiconti Lincei. Matematica e Applicazioni, 82(2):199–210,
+(1988).
+
+[17] E. De Giorgi, M. Carriero, and A. Leaci. Existence theorem for a minimum
+problem with free discontinuity set. Archive for Rational Mechanics and Analysis,
+108(4):195–218, (1989).
+
+[18] L. Evans and R. Gariepy. Measure Theory and Fine Properties of Functions.
+Studies in Advanced Mathematics. CRC Press, 1991.
+
+[19] L. C. Evans. Partial differential equations. Providence, RI, (1998).
+
+[20] K. Falconer. The geometry of fractal sets, volume 85. Cambridge university press,
+1986.
+
+[21] K. Falconer. Fractal geometry: mathematical foundations and applications. John
+Wiley & Sons, 2004.
+
+[22] H. Federer. Geometric measure theory. Springer, 2014.
+
+[23] W. H. Fleming and R. Rishel. An integral formula for total gradient variation.
+Archiv der Mathematik, 11(1):218–222, (1960).
+
+[24] G. B. Folland. Real analysis: modern techniques and their applications. John
+Wiley & Sons, 2013.
+
+[25] I. Fonseca and N. Fusco. Regularity results for anisotropic image segmentation
+models. Annali della Scuola Normale Superiore di Pisa-Classe di Scienze,
+24(3):463–499, (1997).
+
+[26] D. Gilbarg and N. S. Trudinger. Elliptic partial differential equations of second
+order. springer, 2015.
+
+[27] E. Giusti and G. H. Williams. Minimal surfaces and functions of bounded variation,
+volume 2. Springer, 1984.
