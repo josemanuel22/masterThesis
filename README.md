@@ -13,3 +13,33 @@ In the first chapter, we will review some preliminary results of the abstract me
 3. 49J45: Optimal control problems involving semicontinuity and convergence; relaxation.
 
 # References.
+
+[1] L. Ambrosio. Metric space valued functions of bounded variation. Annali della
+Scuola Normale Superiore di Pisa-Classe di Scienze, 17(3):439–478, (1990).
+[2] L. Ambrosio. A new proof of the sbv compactness theorem. Calculus of Variations
+and Partial Differential Equations, 3(1):127–137, (1995).
+[3] L. Ambrosio and G. Dal Maso. A general chain rule for distributional derivatives.
+Proceedings of the American Mathematical Society, 108(3):691–702, (1990).
+[4] L. Ambrosio and N. Dancer. Calculus of variations and partial differential equations:
+topics on geometrical evolution problems and degree theory. Springer Science
+& Business Media, 2012.
+[5] L. Ambrosio, N. Fusco, and D. Pallara. Partial regularity of free discontinuity
+sets, ii. Annali della Scuola Normale Superiore di Pisa - Classe di Scienze, Ser.
+4, 24(1):39–62, (1997).
+[6] L. Ambrosio, N. Fusco, and D. Pallara. Functions of Bounded Variation and Free
+Discontinuity Problems. Oxford University Press. Clarendon Press, 2000.
+[7] L. Ambrosio and F. Ghiraldin. Compactness of special functions of bounded
+higher variation. Analysis and Geometry in Metric Spaces, 1:1–30, (2013).
+[8] L. Ambrosio, M. Miranda Jr, and D. Pallara. Special functions of bounded variation
+in doubling metric measure spaces. Calculus of variations: topics from the
+mathematical heritage of E. De Giorgi, 14:1–45, (2004).
+[9] L. Ambrosio and D. Pallara. Partial regularity of free discontinuity sets, i. Annali
+della Scuola Normale Superiore di Pisa - Classe di Scienze, Ser. 4, 24(1):1–38,
+(1997).
+[10] T. Bartsch and M. Willem. Some critical minimization problems for functions of
+bounded variations. Journal of Functional Analysis, 259(11):3025–3035, (2010).
+[11] H. Brezis. Functional analysis, Sobolev spaces and partial differential equations.
+Springer Science & Business Media, 2010.
+[12] A. P. Calderón and A. Zygmund. On the differentiability of functions which are of
+bounded variation in tonelli’s sense. Revista de la Unión Matemática Argentina,
+20:102–121, (1962).
