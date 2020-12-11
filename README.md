@@ -104,3 +104,28 @@ order. springer, 2015.
 
 [27] E. Giusti and G. H. Williams. Minimal surfaces and functions of bounded variation,
 volume 2. Springer, 1984.
+
+[28] F. Lin and X. Yang. Geometric Measure Theory: An Introduction. Advanced
+mathematics. Science Press, 2002.
+
+[29] G. Mantegazza and C. Mantegazza. A note on the theory of sbv functions. Boll.
+Un. Mat. Ital, pages 375–382, (1997).
+
+[30] J.-M. Morel and S. Solimini. Variational methods in image segmentation: with
+seven image processing experiments, volume 14. Springer Science & Business
+Media, 2012.
+
+[31] I. Peral Alonso. Métodos variacionales y ecuaciones en derivadas parciales. Curso.
+Departamento de Matemáticas, Universidad de Almería, España, (1998).
+
+[32] J. Pérez. Mirando hacia el futuro. La Gaceta de la RSME, 17(2):361–382, (2014).
+
+[33] G. Talenti. Best constant in sobolev inequality. Annali di Matematica pura ed
+Applicata, 110(1):353–372, (1976).
+
+[34] L. Tonelli. Sulle funzioni di due variabili generalmente a variazione limitata.
+Annali della Scuola Normale Superiore di Pisa-Classe di Scienze, 5(3-4):315–320,
+(1936).
+
+[35] M. Torres. On the dual of bv. Contributions of Mexican Mathematicians Abroad
+in Pure and Applied Mathematics, 709:115, (2018).
